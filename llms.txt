@@ -1,2 +1,25 @@
 # Chatham Plumbing Pros
-HVAC services in Ontario.
+
+> Chatham Plumbing Pros is a local HVAC company serving Chatham, Chatham-Kent, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 901-3519  |  Email: contact@chathamplumbingpros.ca  |  Website: https://chathamplumbingpros.ca
+
+## Key pages
+
+- [Home](https://chathamplumbingpros.ca/): Chatham Plumbing Pros homepage with service overview and FAQ
+- [About](https://chathamplumbingpros.ca/about/): About the company and service area
+- [Contact](https://chathamplumbingpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://chathamplumbingpros.ca/services/water-heaters/): Water Heaters in Chatham, Ontario
+- [Drain Cleaning](https://chathamplumbingpros.ca/services/drain-cleaning/): Drain Cleaning in Chatham, Ontario
+- [Repiping](https://chathamplumbingpros.ca/services/repiping/): Repiping in Chatham, Ontario
+- [Fixtures & Toilets](https://chathamplumbingpros.ca/services/fixtures-toilets/): Fixtures & Toilets in Chatham, Ontario
+- [Leak Detection & Repair](https://chathamplumbingpros.ca/services/leak-detection/): Leak Detection & Repair in Chatham, Ontario
+- [Sump Pumps & Backwater](https://chathamplumbingpros.ca/services/sump-pumps/): Sump Pumps & Backwater in Chatham, Ontario
+- [Water Softeners & Filtration](https://chathamplumbingpros.ca/services/water-softeners/): Water Softeners & Filtration in Chatham, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Chatham are answered on the homepage.
